@@ -1,0 +1,2 @@
+# JavaScriptCourse
+A code repo for JavaScript
